@@ -1,4 +1,4 @@
-# Web_Data_Mining  
+# Web Data Mining  国科大 网络数据挖掘课程
 UCAS Web Data Mining Course   
 1.Apriori-algorithm  
   1.1 candidate_gen 由k-1频繁集生成候补k-频繁集   
