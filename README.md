@@ -4,5 +4,6 @@ UCAS Web Data Mining Course
 >>1.1 candidate_gen 由k-1频繁集生成候补k-频繁集   
 >>1.2 scan_F 检验候选k-频繁集确定k-频繁集   
 >>1.3 generateRules 生成关联规则   
-![image](https://github.com/kratos236/Web_Data_Mining/blob/master/picture/apriori.png)  
+
+<img src="https://github.com/kratos236/Web_Data_Mining/blob/master/picture/apriori.png" width="100" height="100" />
 
